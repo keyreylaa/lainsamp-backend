@@ -1,6 +1,1 @@
-Lain Samp Alpha
-
-- Initial Alpha rebrand from 17.x source.
-- Launcher rebranded; update backend now live.
-- Game data (lite) ships as manual files.zip via Drive for now.
-- Known issues: see README in the app repo.
+Coming soon.
